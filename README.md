@@ -1,10 +1,9 @@
 # Matplotlib-Challenge
 The Power of Plots
 
-
 ## Instructions
 
-Your tasks are to do the following:
+My tasks were to do the following:
 
 ### Initial Preparation
 
@@ -46,8 +45,6 @@ Your tasks are to do the following:
     * Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment. Append the resulting final tumor volumes for each drug to the empty list. Determine outliers using the upper and lower bounds, then print the results.
     
 * Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
-
-  **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
 ### Line and Scatter Plots
 
